@@ -1,0 +1,69 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "594d9259-39f2-44aa-b5d9-b3a070b11405",
+   "metadata": {},
+   "source": [
+    "Introduction Here (Leah):\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "eced5c93-4ad0-4555-84be-676a759086be",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Reading In Dataset (Leah):\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8a95e575-5f7b-42a9-bb41-8fe0b83a732d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Cleaning and Wrangling Data (Leah):\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ed7ad4a3-7797-4ade-9c14-81db944bfdf5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Creating Preliminary Graphs to Show Correlation:\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f368852d-fbba-4a67-a644-a0d84486242a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Summarize Data (P"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "R",
+   "language": "R",
+   "name": "ir"
+  },
+  "language_info": {
+   "codemirror_mode": "r",
+   "file_extension": ".r",
+   "mimetype": "text/x-r-source",
+   "name": "R",
+   "pygments_lexer": "r",
+   "version": "4.3.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
