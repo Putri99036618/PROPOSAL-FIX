@@ -18,9 +18,20 @@ Methods:
 - Explain how you will conduct either your data analysis and which variables/columns you will use. Note - you do not need to use all variables/columns that exist in the raw data set. In fact, that's often not a good idea. For each variable think: is this a useful variable for prediction?
 - Describe at least one way that you will visualize the results
 
-Expected outcomes and significance:
+Expected outcomes and significance (putri):
 - What do you expect to find?
-   We are expecting to be able to predict the age of abalone based on the diameter and weight data
+
+  Predictive models that can accurately estimate the age of abalone based on the physical measurements such as diameter, weight, and rings.
 - What impact could such findings have?
-  
+1. Time efficiency and cost reduction.
+    The traditional process of determining abalone age such as cutting the shell, and manually counting the number of rings under microscope involves costs associated with equipment, labor, and time. By contrast, if age can be reliably predicted using physical measurements and predictive models, it would save a significant amount of time and the overall cost of age determination can be significantly reduced.
+     
+2. Non-destructive testing.
+  Cutting the shell could damages the specimen, and it may not be feasible to sacrifice abalones for age determination especially in conservation efforts where preserving the population is crucial. Thus, by using physical measurements, it allows
+researchers to gather age data without harming the abalones.
+   
+3. Enhance conservation efforts.
+   With a more efficient method for age determination, researchers and fisheries can monitor abalone populations more frequently in order to get better understanding of population dynamics, growth rates, and age structure, which are essential for more sustainable fisheries and conservation efforts.
+   
 - What future questions could this lead to?
+  Additional factors beyond physical measurements, such as environmental variables like water temperature, pH levels, or food availability, might be added to improve the accuracy of age prediction models.
