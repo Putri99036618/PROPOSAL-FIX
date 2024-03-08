@@ -20,5 +20,7 @@ Methods:
 
 Expected outcomes and significance:
 - What do you expect to find?
+   We are expecting to be able to predict the age of abalone based on the diameter and weight data
 - What impact could such findings have?
+  
 - What future questions could this lead to?
